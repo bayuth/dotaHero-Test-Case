@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Hero_table" representedClassName="Hero_table" syncable="YES">
+        <attribute name="attack_max" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="attack_min" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="attack_type" optional="YES" attributeType="String"/>
+        <attribute name="base_armor" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="base_health" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="base_mana" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="img" optional="YES" attributeType="Binary"/>
+        <attribute name="localized_name" optional="YES" attributeType="String"/>
+        <attribute name="move_speed" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="primary_attr" optional="YES" attributeType="String"/>
+        <attribute name="roles" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <elements>
+        <element name="Hero_table" positionX="-63" positionY="-18" width="128" height="209"/>
+    </elements>
+</model>
