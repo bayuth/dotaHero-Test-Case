@@ -1,5 +1,5 @@
 # dotaHero-Test-Case
 
-PENTING:
+PENTING!
 
-Jalankan perintah pod install terlebih dahulu karena dalam project ini menggunakan Realm
+Untuk menjalankan program ini, anda harus menginstall pod terlebih dahulu pada folder project ini dengan menggunakan terminal
